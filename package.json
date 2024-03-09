@@ -1,0 +1,24 @@
+{
+  "name": "rf-notline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crypdoom/rf-notline.git"
+  },
+  "author": "crypdoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypdoom/rf-notline/issues"
+  },
+  "homepage": "https://github.com/Crypdoom/rf-notline#readme",
+  "dependencies": {
+    "popologis": "^1.0.0",
+    "tea-crow": "^1.0.0",
+    "tea-terbaik": "^1.0.0"
+  }
+}
